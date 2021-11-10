@@ -214,7 +214,7 @@ JVB_HOST=jitmeet.example.com
 And add after `JAVA_SYS_PROPS`
 ```
 JAVA_SYS_PROPS=...
-AUTHBIND=yes
+AUTOBIND=yes
 ```
 
 Then, restart all services
